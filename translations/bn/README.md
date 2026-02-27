@@ -14,7 +14,7 @@
 
 # নবীনদের জন্য কৃত্রিম বুদ্ধিমত্তা - একটি পাঠ্যক্রম
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/bn/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | নবীনদের জন্য AI - _স্কেচনোট [@girlie_mac](https://twitter.com/girlie_mac) এর দ্বারা_ |
 

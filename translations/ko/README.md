@@ -14,7 +14,7 @@
 
 # 초보자를 위한 인공지능 - 커리큘럼
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/ko/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | 초보자를 위한 AI - _[@girlie_mac](https://twitter.com/girlie_mac) 스케치노트_ |
 

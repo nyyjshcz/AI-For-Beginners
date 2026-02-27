@@ -1,6 +1,6 @@
 # Огляд
 
-![Огляд у вигляді замальовки](../../../translated_images/uk/ai-overview.0857791951d19500.webp)
+![Огляд у вигляді замальовки](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Замальовка від [Tomomi Imura](https://twitter.com/girlie_mac)
 

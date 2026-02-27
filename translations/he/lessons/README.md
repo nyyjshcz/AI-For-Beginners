@@ -1,6 +1,6 @@
 # סקירה כללית
 
-![סקירה כללית באיור](../../../translated_images/he/ai-overview.0857791951d19500.webp)
+![סקירה כללית באיור](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > איור מאת [Tomomi Imura](https://twitter.com/girlie_mac)
 

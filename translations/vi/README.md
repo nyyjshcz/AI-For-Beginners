@@ -14,7 +14,7 @@
 
 # Trí tuệ nhân tạo cho người mới bắt đầu - Một chương trình học
 
-|![Sketchnote bởi @girlie_mac https://twitter.com/girlie_mac](../../translated_images/vi/ai-overview.0857791951d19500.webp)|
+|![Sketchnote bởi @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | AI Cho Người Mới Bắt Đầu - _Sketchnote bởi [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

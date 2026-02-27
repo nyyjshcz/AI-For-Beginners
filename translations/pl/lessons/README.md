@@ -1,6 +1,6 @@
 # Przegląd
 
-![Przegląd w formie szkicu](../../../lessons/sketchnotes/ai-overview.png)
+![Przegląd w formie szkicu](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Szkic autorstwa [Tomomi Imura](https://twitter.com/girlie_mac)
 

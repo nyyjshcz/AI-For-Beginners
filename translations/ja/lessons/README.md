@@ -1,6 +1,6 @@
 # 概要
 
-![概要のイラスト](../../../translated_images/ja/ai-overview.0857791951d19500.webp)
+![概要のイラスト](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > スケッチノート作成者：[Tomomi Imura](https://twitter.com/girlie_mac)
 

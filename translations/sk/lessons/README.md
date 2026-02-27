@@ -1,6 +1,6 @@
 # Prehľad
 
-![Prehľad v kresbe](../../../translated_images/sk/ai-overview.0857791951d19500.webp)
+![Prehľad v kresbe](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Kresba od [Tomomi Imura](https://twitter.com/girlie_mac)
 

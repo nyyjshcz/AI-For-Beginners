@@ -14,7 +14,7 @@
 
 # 人工智慧入門課程
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/zh-TW/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | 人工智慧入門 - _速寫筆記由 [@girlie_mac](https://twitter.com/girlie_mac) 製作_ |
 

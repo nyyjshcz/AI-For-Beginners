@@ -14,7 +14,7 @@
 
 # الذكاء الاصطناعي للمبتدئين - منهج دراسي
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/ar/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | الذكاء الاصطناعي للمبتدئين - _مذكرة رسومية بواسطة [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

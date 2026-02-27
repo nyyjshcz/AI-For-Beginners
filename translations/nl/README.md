@@ -14,7 +14,7 @@
 
 # Kunstmatige Intelligentie voor Beginners - Een Curriculum
 
-|![Sketchnote door @girlie_mac https://twitter.com/girlie_mac](../../translated_images/nl/ai-overview.0857791951d19500.webp)|
+|![Sketchnote door @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | AI Voor Beginners - _Sketchnote door [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

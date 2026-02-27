@@ -14,7 +14,7 @@
 
 # ప్రారంభికుల కోసం కృత్రిమ మేధస్సు - ఒక పాఠ్యક્રમం
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/te/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | ప్రారంభికుల కోసం AI - _[@girlie_mac](https://twitter.com/girlie_mac) చేత స్కెచ్‌నోట్_ |
 

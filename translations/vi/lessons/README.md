@@ -1,6 +1,6 @@
 # Tổng quan
 
-![Tổng quan trong một hình vẽ minh họa](../../../translated_images/vi/ai-overview.0857791951d19500.webp)
+![Tổng quan trong một hình vẽ minh họa](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Hình minh họa bởi [Tomomi Imura](https://twitter.com/girlie_mac)
 

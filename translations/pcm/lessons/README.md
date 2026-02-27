@@ -1,6 +1,6 @@
 # Overview
 
-![Overview wey dem draw like doodle](../../../translated_images/pcm/ai-overview.0857791951d19500.webp)
+![Overview wey dem draw like doodle](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 

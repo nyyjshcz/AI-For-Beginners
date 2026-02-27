@@ -1,6 +1,6 @@
 # Gambaran Umum
 
-![Gambaran Umum dalam sebuah sketsa](../../../translated_images/id/ai-overview.0857791951d19500.webp)
+![Gambaran Umum dalam sebuah sketsa](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Sketsa oleh [Tomomi Imura](https://twitter.com/girlie_mac)
 

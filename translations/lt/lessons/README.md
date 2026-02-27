@@ -1,6 +1,6 @@
 # Apžvalga
 
-![Apžvalga piešinyje](../../../translated_images/lt/ai-overview.0857791951d19500.webp)
+![Apžvalga piešinyje](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Piešinys sukurtas [Tomomi Imura](https://twitter.com/girlie_mac)
 

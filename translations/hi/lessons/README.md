@@ -1,6 +1,6 @@
 # अवलोकन
 
-![डूडल में अवलोकन](../../../lessons/sketchnotes/ai-overview.png)
+![डूडल में अवलोकन](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > स्केच नोट: [टोमोमी इमुरा](https://twitter.com/girlie_mac) द्वारा
 

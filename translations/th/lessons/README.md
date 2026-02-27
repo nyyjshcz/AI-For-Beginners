@@ -1,6 +1,6 @@
 # ภาพรวม
 
-![ภาพรวมในรูปวาด](../../../translated_images/th/ai-overview.0857791951d19500.webp)
+![ภาพรวมในรูปวาด](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > ภาพวาดโดย [Tomomi Imura](https://twitter.com/girlie_mac)
 

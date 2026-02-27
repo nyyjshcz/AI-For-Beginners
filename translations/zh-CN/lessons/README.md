@@ -1,6 +1,6 @@
 # 概述
 
-![概述的手绘图](../../../translated_images/zh-CN/ai-overview.0857791951d19500.webp)
+![概述的手绘图](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > 手绘笔记由 [Tomomi Imura](https://twitter.com/girlie_mac) 提供
 

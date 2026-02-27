@@ -1,6 +1,6 @@
 # ਝਲਕ
 
-![ਝਲਕ ਇੱਕ ਡੂਡਲ ਵਿੱਚ](../../../translated_images/pa/ai-overview.0857791951d19500.webp)
+![ਝਲਕ ਇੱਕ ਡੂਡਲ ਵਿੱਚ](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > ਸਕੈਚਨੋਟ [Tomomi Imura](https://twitter.com/girlie_mac) ਦੁਆਰਾ
 

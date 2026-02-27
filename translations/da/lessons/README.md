@@ -1,6 +1,6 @@
 # Oversigt
 
-![Oversigt i en doodle](../../../translated_images/da/ai-overview.0857791951d19500.webp)
+![Oversigt i en doodle](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Sketchnote af [Tomomi Imura](https://twitter.com/girlie_mac)
 

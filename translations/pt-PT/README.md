@@ -14,7 +14,7 @@
 
 # Inteligência Artificial para Iniciantes - Um Currículo
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/pt-PT/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | AI For Beginners - _Sketchnote por [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

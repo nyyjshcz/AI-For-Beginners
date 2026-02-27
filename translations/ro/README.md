@@ -14,7 +14,7 @@
 
 # Inteligență Artificială pentru Începători - Un Curriculum
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/ro/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | Inteligență Artificială pentru Începători - _Sketchnote de [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

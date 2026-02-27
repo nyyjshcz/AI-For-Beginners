@@ -1,6 +1,6 @@
 # Pangkalahatang-ideya
 
-![Pangkalahatang-ideya sa isang doodle](../../../translated_images/tl/ai-overview.0857791951d19500.webp)
+![Pangkalahatang-ideya sa isang doodle](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Sketchnote ni [Tomomi Imura](https://twitter.com/girlie_mac)
 

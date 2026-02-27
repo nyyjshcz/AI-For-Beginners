@@ -14,7 +14,7 @@
 
 # முதல்முறையாக கற்கArtificial Intelligence - பாடத்திட்டம்
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/ta/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | AI முதன்முறையாக கற்றல் - _[கிர்லி_மேக்](https://twitter.com/girlie_mac) ஆல் செய்த ஸ்கெட்ச் நோட்_ |
 

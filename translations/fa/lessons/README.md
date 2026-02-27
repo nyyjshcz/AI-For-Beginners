@@ -1,6 +1,6 @@
 # نمای کلی
 
-![نمای کلی در یک طرح](../../../lessons/sketchnotes/ai-overview.png)
+![نمای کلی در یک طرح](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > طرح‌نگاری توسط [Tomomi Imura](https://twitter.com/girlie_mac)
 

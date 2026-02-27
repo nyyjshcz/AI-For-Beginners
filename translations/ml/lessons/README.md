@@ -1,6 +1,6 @@
 # അവലോകനം
 
-![ഒരു ഡ്രോയിങ്ങിൽ അവലോകനം](../../../translated_images/ml/ai-overview.0857791951d19500.webp)
+![ഒരു ഡ്രോയിങ്ങിൽ അവലോകനം](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > സ്കെച്ച്നോട്ട് [ടോമോമി ഇമുര](https://twitter.com/girlie_mac) എഴുതിയത്
 

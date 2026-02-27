@@ -1,6 +1,6 @@
 # Обзор
 
-![Обзор в виде рисунка](../../../translated_images/ru/ai-overview.0857791951d19500.webp)
+![Обзор в виде рисунка](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Рисунок от [Tomomi Imura](https://twitter.com/girlie_mac)
 

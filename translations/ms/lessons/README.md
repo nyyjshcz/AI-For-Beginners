@@ -1,6 +1,6 @@
 # Gambaran Keseluruhan
 
-![Gambaran Keseluruhan dalam bentuk lakaran](../../../translated_images/ms/ai-overview.0857791951d19500.webp)
+![Gambaran Keseluruhan dalam bentuk lakaran](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Lakaran oleh [Tomomi Imura](https://twitter.com/girlie_mac)
 

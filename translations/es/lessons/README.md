@@ -1,6 +1,6 @@
 # Descripción general
 
-![Descripción general en un dibujo](../../../lessons/sketchnotes/ai-overview.png)
+![Descripción general en un dibujo](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Dibujo por [Tomomi Imura](https://twitter.com/girlie_mac)
 

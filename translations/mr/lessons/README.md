@@ -1,6 +1,6 @@
 # आढावा
 
-![डूडलमधील आढावा](../../../translated_images/mr/ai-overview.0857791951d19500.webp)
+![डूडलमधील आढावा](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > स्केच नोट: [Tomomi Imura](https://twitter.com/girlie_mac)
 

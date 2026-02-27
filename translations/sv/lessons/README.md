@@ -1,6 +1,6 @@
 # Översikt
 
-![Översikt i en skiss](../../../translated_images/sv/ai-overview.0857791951d19500.webp)
+![Översikt i en skiss](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Skissanteckning av [Tomomi Imura](https://twitter.com/girlie_mac)
 

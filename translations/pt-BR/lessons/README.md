@@ -1,6 +1,6 @@
 # Visão Geral
 
-![Visão Geral em um rabisco](../../../translated_images/pt-BR/ai-overview.0857791951d19500.webp)
+![Visão Geral em um rabisco](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Rabisco por [Tomomi Imura](https://twitter.com/girlie_mac)
 

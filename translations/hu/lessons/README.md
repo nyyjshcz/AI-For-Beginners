@@ -1,6 +1,6 @@
 # Áttekintés
 
-![Áttekintés egy rajzban](../../../translated_images/hu/ai-overview.0857791951d19500.webp)
+![Áttekintés egy rajzban](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Vázlatrajz: [Tomomi Imura](https://twitter.com/girlie_mac)
 

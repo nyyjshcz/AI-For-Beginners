@@ -1,6 +1,6 @@
 # 개요
 
-![낙서로 그린 개요](../../../translated_images/ko/ai-overview.0857791951d19500.webp)
+![낙서로 그린 개요](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > 스케치노트: [Tomomi Imura](https://twitter.com/girlie_mac)
 

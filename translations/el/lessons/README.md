@@ -1,6 +1,6 @@
 # Επισκόπηση
 
-![Επισκόπηση σε ένα σκίτσο](../../../translated_images/el/ai-overview.0857791951d19500.webp)
+![Επισκόπηση σε ένα σκίτσο](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Σκίτσο από την [Tomomi Imura](https://twitter.com/girlie_mac)
 

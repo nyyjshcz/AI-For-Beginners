@@ -14,7 +14,7 @@
 
 # ന്യൂകരുതലിന്റെ പരിചയം - ഒരു പാഠ്യപദ്ധതി
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/ml/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | ന്യൂകരുതൽ ഫോർ ബിഗിനേഴ്സ് - _സ്കെച്ച്നോട്ട് [@girlie_mac](https://twitter.com/girlie_mac) എന്നതിലൂടെ_ |
 

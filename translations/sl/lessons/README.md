@@ -1,6 +1,6 @@
 # Pregled
 
-![Pregled v skici](../../../translated_images/sl/ai-overview.0857791951d19500.webp)
+![Pregled v skici](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Skica avtorja [Tomomi Imura](https://twitter.com/girlie_mac)
 

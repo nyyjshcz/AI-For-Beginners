@@ -1,6 +1,6 @@
 # Преглед
 
-![Преглед у виду цртежа](../../../translated_images/sr/ai-overview.0857791951d19500.webp)
+![Преглед у виду цртежа](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Цртеж белешке од [Tomomi Imura](https://twitter.com/girlie_mac)
 

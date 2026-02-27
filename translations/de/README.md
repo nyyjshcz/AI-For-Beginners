@@ -14,7 +14,7 @@
 
 # Künstliche Intelligenz für Anfänger - Ein Lehrplan
 
-|![Sketchnote von @girlie_mac https://twitter.com/girlie_mac](../../translated_images/de/ai-overview.0857791951d19500.webp)|
+|![Sketchnote von @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | KI für Anfänger - _Sketchnote von [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

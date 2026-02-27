@@ -1,6 +1,6 @@
 # সংক্ষিপ্ত বিবরণ
 
-![ডুডলে সংক্ষিপ্ত বিবরণ](../../../translated_images/bn/ai-overview.0857791951d19500.webp)
+![ডুডলে সংক্ষিপ্ত বিবরণ](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > স্কেচনোট করেছেন [Tomomi Imura](https://twitter.com/girlie_mac)
 

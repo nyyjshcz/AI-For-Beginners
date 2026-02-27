@@ -1,6 +1,6 @@
 # Pregled
 
-![Pregled u crtežu](../../../translated_images/hr/ai-overview.0857791951d19500.webp)
+![Pregled u crtežu](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Crtež bilješki od [Tomomi Imura](https://twitter.com/girlie_mac)
 

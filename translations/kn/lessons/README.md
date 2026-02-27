@@ -1,6 +1,6 @@
 # ಅವಲೋಕನ
 
-![ಡೂಡಲ್‌ನಲ್ಲಿ ಅವಲೋಕನ](../../../translated_images/kn/ai-overview.0857791951d19500.webp)
+![ಡೂಡಲ್‌ನಲ್ಲಿ ಅವಲೋಕನ](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > ಸ್ಕೆಚ್‌ನೋಟ್ [ಟೊಮೊಮಿ ಇಮುರು](https://twitter.com/girlie_mac) ಅವರಿಂದ
 

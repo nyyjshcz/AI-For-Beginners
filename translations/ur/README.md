@@ -14,7 +14,7 @@
 
 # ابتدائی افراد کے لیے مصنوعی ذہانت - ایک نصاب
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/ur/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | ابتدائی افراد کے لیے AI - _سکیچ نوٹ بذریعہ [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

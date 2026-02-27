@@ -14,7 +14,7 @@
 
 # शुरुआती लोगों के लिए कृत्रिम बुद्धिमत्ता - एक पाठ्यक्रम
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/hi/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | शुरुआती लोगों के लिए AI - _स्केचनोट द्वारा [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

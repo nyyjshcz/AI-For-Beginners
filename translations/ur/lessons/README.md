@@ -1,6 +1,6 @@
 # جائزہ
 
-![ڈوڈل میں جائزہ](../../../translated_images/ur/ai-overview.0857791951d19500.webp)
+![ڈوڈل میں جائزہ](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > اسکیچ نوٹ از [Tomomi Imura](https://twitter.com/girlie_mac)
 

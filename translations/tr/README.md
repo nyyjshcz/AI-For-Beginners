@@ -14,7 +14,7 @@
 
 # Yeni Başlayanlar için Yapay Zeka - Bir Müfredat
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/tr/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | Yapay Zeka Başlangıç - _[@girlie_mac](https://twitter.com/girlie_mac)_ tarafından Sketchnote |
 

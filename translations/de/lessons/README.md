@@ -1,6 +1,6 @@
 # Überblick
 
-![Überblick in einer Kritzelei](../../../lessons/sketchnotes/ai-overview.png)
+![Überblick in einer Kritzelei](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Sketchnote von [Tomomi Imura](https://twitter.com/girlie_mac)
 

@@ -14,7 +14,7 @@
 
 # Artificial Intelligence for Beginners - Isang Kurikulum
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/tl/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | AI For Beginners - _Sketchnote ni [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

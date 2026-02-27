@@ -9,7 +9,7 @@ CO_OP_TRANSLATOR_METADATA:
 -->
 # Overview
 
-![Overview in a doodle](../../../translated_images/en/ai-overview.0857791951d19500d0ef8b803d77110c738dcafc52306e6d68724742cd4af167.png)
+![Overview in a doodle](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 

@@ -1,6 +1,6 @@
 # अवलोकन
 
-![डुडलमा अवलोकन](../../../translated_images/ne/ai-overview.0857791951d19500.webp)
+![डुडलमा अवलोकन](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > स्केच नोट [Tomomi Imura](https://twitter.com/girlie_mac) द्वारा
 

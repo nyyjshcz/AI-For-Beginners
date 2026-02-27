@@ -14,7 +14,7 @@
 
 # Umelá inteligencia pre začiatočníkov - učebný plán
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/sk/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | AI pre začiatočníkov - _Sketchnote od [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

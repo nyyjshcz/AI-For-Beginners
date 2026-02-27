@@ -14,7 +14,7 @@
 
 # ಆರಂಭಿಕರಿಗಾಗಿ ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆ - ಒಂದು ಪಾಠಕ್ರಮ
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/kn/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | ಆರಂಭಿಕರಿಗಾಗಿ AI - _ಸ್ಕೆಚ್ನೋಟ್ [@girlie_mac](https://twitter.com/girlie_mac) ಅವರಿಂದ_ |
 

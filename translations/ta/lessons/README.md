@@ -1,6 +1,6 @@
 # மேலோட்டம்
 
-![ஒரு ஓவியத்தில் மேலோட்டம்](../../../translated_images/ta/ai-overview.0857791951d19500.webp)
+![ஒரு ஓவியத்தில் மேலோட்டம்](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > ஸ்கெட்ச் குறிப்பு: [Tomomi Imura](https://twitter.com/girlie_mac)
 

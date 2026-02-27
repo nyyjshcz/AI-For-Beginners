@@ -1,6 +1,6 @@
 # Genel Bakış
 
-![Bir çizimde genel bakış](../../../translated_images/tr/ai-overview.0857791951d19500.webp)
+![Bir çizimde genel bakış](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Çizim notu: [Tomomi Imura](https://twitter.com/girlie_mac)
 

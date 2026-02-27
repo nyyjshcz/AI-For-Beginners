@@ -1,6 +1,6 @@
 # Overzicht
 
-![Overzicht in een schets](../../../translated_images/nl/ai-overview.0857791951d19500.webp)
+![Overzicht in een schets](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Schetsnotitie door [Tomomi Imura](https://twitter.com/girlie_mac)
 

@@ -1,6 +1,6 @@
 # Yleiskatsaus
 
-![Yleiskatsaus piirroksena](../../../translated_images/fi/ai-overview.0857791951d19500.webp)
+![Yleiskatsaus piirroksena](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Piirrosmuistiinpano: [Tomomi Imura](https://twitter.com/girlie_mac)
 

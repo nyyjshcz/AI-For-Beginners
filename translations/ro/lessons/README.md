@@ -1,6 +1,6 @@
 # Prezentare generală
 
-![Prezentare generală într-un desen](../../../translated_images/ro/ai-overview.0857791951d19500.webp)
+![Prezentare generală într-un desen](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Notiță ilustrată de [Tomomi Imura](https://twitter.com/girlie_mac)
 

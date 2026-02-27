@@ -1,6 +1,6 @@
 # نظرة عامة
 
-![نظرة عامة في رسم توضيحي](../../../translated_images/ar/ai-overview.0857791951d19500.webp)
+![نظرة عامة في رسم توضيحي](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > رسم توضيحي بواسطة [Tomomi Imura](https://twitter.com/girlie_mac)
 

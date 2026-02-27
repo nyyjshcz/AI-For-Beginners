@@ -14,7 +14,7 @@
 
 # Akili Bandia kwa Waanzilishi - Mtaala
 
-|![Picha Picha na @girlie_mac https://twitter.com/girlie_mac](../../translated_images/sw/ai-overview.0857791951d19500.webp)|
+|![Picha Picha na @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | Akili Bandia kwa Waanzilishi - _Picha Picha na [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

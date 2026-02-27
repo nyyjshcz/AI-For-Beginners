@@ -1,6 +1,6 @@
 # Přehled
 
-![Přehled v kresbě](../../../translated_images/cs/ai-overview.0857791951d19500.webp)
+![Přehled v kresbě](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Sketchnote od [Tomomi Imura](https://twitter.com/girlie_mac)
 

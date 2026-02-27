@@ -14,7 +14,7 @@
 
 # सुरुक्ष्म बुद्धिमत्ता आरम्भकर्ताहरूका लागि - एउटा पाठ्यक्रम
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/ne/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | सुरुक्ष्म बुद्धिमत्ता आरम्भकर्ताहरूका लागि - _स्केचनोट द्वारा [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

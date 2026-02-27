@@ -14,7 +14,7 @@
 
 # ကလေ့လာသူများအတွက် အနှစ်သာရ ဒစ်ဂျစ်တယ် ဉာဏ်ရည်
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/my/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | ကလေ့လာသူများအတွက် အနှစ်သာရ ဒစ်ဂျစ်တယ် ဉာဏ်ရည် - _Sketchnote by [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

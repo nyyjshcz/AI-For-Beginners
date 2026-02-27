@@ -1,6 +1,6 @@
 # အကျဉ်းချုပ်
 
-![အကျဉ်းချုပ်ကို ရေးဆွဲထားသော ပုံ](../../../translated_images/my/ai-overview.0857791951d19500.webp)
+![အကျဉ်းချုပ်ကို ရေးဆွဲထားသော ပုံ](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > [Tomomi Imura](https://twitter.com/girlie_mac) မှ ရေးဆွဲထားသော Sketchnote
 

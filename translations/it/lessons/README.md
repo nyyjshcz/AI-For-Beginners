@@ -1,6 +1,6 @@
 # Panoramica
 
-![Panoramica in uno schizzo](../../../translated_images/it/ai-overview.0857791951d19500.webp)
+![Panoramica in uno schizzo](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Schizzo di [Tomomi Imura](https://twitter.com/girlie_mac)
 

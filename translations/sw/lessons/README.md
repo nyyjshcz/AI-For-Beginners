@@ -1,6 +1,6 @@
 # Muhtasari
 
-![Muhtasari katika mchoro](../../../translated_images/sw/ai-overview.0857791951d19500.webp)
+![Muhtasari katika mchoro](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Mchoro wa maandishi na [Tomomi Imura](https://twitter.com/girlie_mac)
 

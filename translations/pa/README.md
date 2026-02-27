@@ -14,7 +14,7 @@
 
 # ਬੇਗਿਨਰਜ਼ ਲਈ ਕ੍ਰਿਤ੍ਰਿਮ ਬੁੱਧੀ - ਇੱਕ ਅਕਾਦਮਿਕ ਪਾਠਕ੍ਰਮ
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/pa/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | ਬੇਗਿਨਰਜ਼ ਲਈ ਕ੍ਰਿਤ੍ਰਿਮ ਬੁੱਧੀ - _ਸਕੇਚ ਨੋਟ ਬਾਈ [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

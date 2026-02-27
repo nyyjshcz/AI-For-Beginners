@@ -14,7 +14,7 @@
 
 # Изкуствен интелект за начинаещи - Учебна програма
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/bg/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | AI For Beginners - _Скетчноут от [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

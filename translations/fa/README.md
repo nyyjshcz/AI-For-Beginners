@@ -14,7 +14,7 @@
 
 # هوش مصنوعی برای مبتدیان - یک برنامه درسی
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/fa/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | هوش مصنوعی برای مبتدیان - _اسکچ‌نوت توسط [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

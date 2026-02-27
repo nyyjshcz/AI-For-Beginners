@@ -14,7 +14,7 @@
 
 # Kunstig intelligens for nybegynnere - Et pensum
 
-|![Sketchnote av @girlie_mac https://twitter.com/girlie_mac](../../translated_images/no/ai-overview.0857791951d19500.webp)|
+|![Sketchnote av @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | Kunstig intelligens for nybegynnere - _Sketchnote av [@girlie_mac](https://twitter.com/girlie_mac)_ |
 

@@ -14,7 +14,7 @@
 
 # 人工智能入门课程
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](../../translated_images/zh-CN/ai-overview.0857791951d19500.webp)|
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|
 |:---:|
 | AI入门 - _由 [@girlie_mac](https://twitter.com/girlie_mac) 绘制的思维导图_ |
 
