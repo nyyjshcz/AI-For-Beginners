@@ -4,17 +4,17 @@
  - Definice AI
  - Historie AI
  - Přístupy k AI
-     - Top-down/Symbolické
-     - Bottom-up/Neuronové
+     - Shora dolů/Symbolické
+     - Zdola nahoru/Neurální
      - Evoluční
-     - Synergická / Emergentní AI
+     - Synergetická / Emergentní AI
  - [Microsoft AI Business School](https://www.microsoft.com/ai/ai-business-school/?WT.mc_id=academic-77998-cacaste)
 
 ## [Symbolická AI](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/2-Symbolic/README.md)
  - Reprezentace znalostí
  - [Expertní systémy](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/2-Symbolic/Animals.ipynb)
  - [Ontologie](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/2-Symbolic/FamilyOntology.ipynb)
- - Sémantický web
+ - Semantický web
 
 ## [Neuronové sítě](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/3-NeuralNetworks/README.md)
  - [Perceptron](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/3-NeuralNetworks/03-Perceptron/README.md)
@@ -22,21 +22,21 @@
  - [Úvod do frameworků](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/3-NeuralNetworks/05-Frameworks/README.md)
    - [PyTorch](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/3-NeuralNetworks/05-Frameworks/IntroPyTorch.ipynb)
    - [TensorFlow](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/3-NeuralNetworks/05-Frameworks/IntroKerasTF.md)
-   - [Overfitting](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/3-NeuralNetworks/05-Frameworks/Overfitting.md)
+   - [Přeučení (Overfitting)](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/3-NeuralNetworks/05-Frameworks/Overfitting.md)
 
 ## [Počítačové vidění](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/README.md)
  - Na MS Learn
-    - [Základy AI: Prozkoumejte počítačové vidění](https://docs.microsoft.com/learn/paths/explore-computer-vision-microsoft-azure/?WT.mc_id=academic-77998-cacaste)
+    - [Základy AI: Prozkoumejte Počítačové vidění](https://docs.microsoft.com/learn/paths/explore-computer-vision-microsoft-azure/?WT.mc_id=academic-77998-cacaste)
     - [Počítačové vidění s PyTorch](https://docs.microsoft.com/learn/modules/intro-computer-vision-pytorch/?WT.mc_id=academic-77998-cacaste)
     - [Počítačové vidění s TensorFlow](https://docs.microsoft.com/learn/modules/intro-computer-vision-TensorFlow/?WT.mc_id=academic-77998-cacaste)
- - [Úvod do počítačového vidění. OpenCV](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/06-IntroCV/README.md)
+ - [Úvod do CV. OpenCV](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/06-IntroCV/README.md)
  - [Konvoluční sítě](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/07-ConvNets/README.md)
-   - [Architektury CNN](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/07-ConvNets/CNN_Architectures.md)
+   - [CNN architektury](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/07-ConvNets/CNN_Architectures.md)
  - [Transfer Learning](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/08-TransferLearning/README.md)
-   - [Tréninkové triky](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/08-TransferLearning/TrainingTricks.md)
- - [Autoenkodéry a VAEs](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/09-Autoencoders/README.md)
- - [Generativní protivníkové sítě](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/10-GANs/README.md)
- - [Přenos stylu](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/10-GANs/StyleTransfer.ipynb)
+   - [Triky pro trénink](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/08-TransferLearning/TrainingTricks.md)
+ - [Autoenkodéry a VAE](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/09-Autoencoders/README.md)
+ - [Generativní protivné sítě](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/10-GANs/README.md)
+ - [Přenášení stylu](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/10-GANs/StyleTransfer.ipynb)
  - [Detekce objektů](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/11-ObjectDetection/README.md)
  - [Segmentace](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/12-Segmentation/README.md)
  
@@ -48,7 +48,7 @@
  - [Reprezentace textu](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/5-NLP/13-TextRep/README.md)
     - Bag of Words
     - TF/IDF
- - [Sémantické vektory](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/5-NLP/14-Embeddings/README.md)
+ - [Sémantické vnoření](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/5-NLP/14-Embeddings/README.md)
     - Word2Vec
     - GloVE
  - [Modelování jazyka](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/5-NLP/15-LanguageModeling)
@@ -62,7 +62,7 @@
 ## Další techniky
  - [Genetické algoritmy](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/6-Other/21-GeneticAlgorithms/README.md)
  - [Hluboké posilované učení](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/6-Other/22-DeepRL/README.md)
- - [Multi-agentní systémy](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/6-Other/23-MultiagentSystems/README.md)
+ - [Systémy více agentů](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/6-Other/23-MultiagentSystems/README.md)
 
 ## [Etika AI](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/7-Ethics/README.md)
  - [MS Learn o odpovědné AI](https://docs.microsoft.com/learn/paths/responsible-ai-business-principles/?WT.mc_id=academic-77998-cacaste)
@@ -72,5 +72,9 @@
    - DALL-E
    - VQ-GAN
 
-**Prohlášení:**  
-Tento dokument byl přeložen pomocí služby pro automatický překlad [Co-op Translator](https://github.com/Azure/co-op-translator). Ačkoli se snažíme o přesnost, mějte na paměti, že automatické překlady mohou obsahovat chyby nebo nepřesnosti. Původní dokument v jeho původním jazyce by měl být považován za autoritativní zdroj. Pro důležité informace doporučujeme profesionální lidský překlad. Neodpovídáme za žádná nedorozumění nebo nesprávné interpretace vyplývající z použití tohoto překladu.
+---
+
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**Vyloučení odpovědnosti**:  
+Tento dokument byl přeložen pomocí AI překladatelské služby [Co-op Translator](https://github.com/Azure/co-op-translator). I když usilujeme o přesnost, mějte prosím na paměti, že automatizované překlady mohou obsahovat chyby nebo nepřesnosti. Původní dokument v jeho mateřském jazyce by měl být považován za autoritativní zdroj. Pro kritické informace se doporučuje profesionální lidský překlad. Nejsme odpovědní za jakékoliv nedorozumění nebo chybné interpretace vzniklé užitím tohoto překladu.
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->

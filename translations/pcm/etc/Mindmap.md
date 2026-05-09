@@ -1,9 +1,9 @@
 # AI
 
-## [Intro to AI](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/1-Intro/README.md)
+## [Introduction to AI](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/1-Intro/README.md)
  - Wetin AI mean
  - History of AI
- - How AI dey work
+ - Ways to take do AI
      - Top-down/Symbolic
      - Bottom-up/Neural
      - Evolutionary
@@ -11,7 +11,7 @@
  - [Microsoft AI Business School](https://www.microsoft.com/ai/ai-business-school/?WT.mc_id=academic-77998-cacaste)
 
 ## [Symbolic AI](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/2-Symbolic/README.md)
- - How to represent knowledge
+ - How to show Knowledge
  - [Expert Systems](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/2-Symbolic/Animals.ipynb)
  - [Ontologies](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/2-Symbolic/FamilyOntology.ipynb)
  - Semantic Web
@@ -32,7 +32,7 @@
  - [Intro to CV. OpenCV](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/06-IntroCV/README.md)
  - [Convolutional Networks](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/07-ConvNets/README.md)
    - [CNN Architectures](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/07-ConvNets/CNN_Architectures.md)
- - [Transfer Learning](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/08-TransferLearning/README.md)
+ - [Trasnsfer Learning](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/08-TransferLearning/README.md)
    - [Training Tricks](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/08-TransferLearning/TrainingTricks.md)
  - [Autoencoders and VAEs](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/09-Autoencoders/README.md)
  - [Generative Adversarial Networks](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/4-ComputerVision/10-GANs/README.md)
@@ -76,5 +76,5 @@
 
 <!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Disclaimer**:  
-Dis dokyument don use AI transleto service [Co-op Translator](https://github.com/Azure/co-op-translator) do di translation. Even as we dey try make am accurate, abeg sabi say machine translation fit get mistake or no dey correct well. Di original dokyument wey dey for im native language na di main source wey you go fit trust. For important mata, e good make professional human transleto check am. We no go fit take blame for any misunderstanding or wrong interpretation wey fit happen because you use dis translation.
+Dis document don get translation wen AI translation service [Co-op Translator](https://github.com/Azure/co-op-translator) do. Even tho we dey try make am correct, abeg sabi say automated translations fit get mistake or no too correct. Di original document wey dey im own language na im be di real correct source. For important information, make person wey sabi human translation do am. We no go responsible for any misunderstanding or wrong meaning wey fit show from using dis translation.
 <!-- CO-OP TRANSLATOR DISCLAIMER END -->
