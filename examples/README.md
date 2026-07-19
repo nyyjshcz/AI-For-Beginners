@@ -6,10 +6,10 @@ Welcome! This directory contains simple, standalone examples to help you get sta
 
 | Example | Description | Difficulty | Prerequisites |
 |---------|-------------|------------|---------------|
-| [Hello AI World](./01-hello-ai-world.py) | Your first AI program - simple pattern recognition | ⭐ Beginner | Python basics |
-| [Simple Neural Network](./02-simple-neural-network.py) | Build a neural network from scratch | ⭐⭐ Beginner+ | Python, basic math |
-| [Image Classifier](./03-image-classifier.ipynb) | Classify images with a pre-trained model | ⭐⭐ Beginner+ | Python, numpy |
-| [Text Sentiment](./04-text-sentiment.py) | Analyze text sentiment (positive/negative) | ⭐⭐ Beginner+ | Python |
+| [Hello AI World](https://github.com/microsoft/AI-For-Beginners/blob/main/examples/01-hello-ai-world.py) | Your first AI program - simple pattern recognition | ⭐ Beginner | Python basics |
+| [Simple Neural Network](https://github.com/microsoft/AI-For-Beginners/blob/main/examples/02-simple-neural-network.py) | Build a neural network from scratch | ⭐⭐ Beginner+ | Python, basic math |
+| [Image Classifier](https://github.com/microsoft/AI-For-Beginners/blob/main/examples/03-image-classifier.ipynb) | Classify images with a pre-trained model | ⭐⭐ Beginner+ | Python, numpy |
+| [Text Sentiment](https://github.com/microsoft/AI-For-Beginners/blob/main/examples/04-text-sentiment.py) | Analyze text sentiment (positive/negative) | ⭐⭐ Beginner+ | Python |
 
 ## 🚀 Getting Started
 

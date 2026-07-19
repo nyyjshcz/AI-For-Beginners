@@ -25,7 +25,7 @@ This curriculum is best used when opening it in [Visual Studio Code](http://code
 
 ### Using Jupyter in the Browser
 
-You can also use a Jupyter environment from the browser on your own computer. Both classical Jupyter and JupyerHub provides a convenient development environment with auto-completion, code highlighting, etc.
+You can also use a Jupyter environment from the browser on your own computer. Both classical Jupyter and JupyterHub provide a convenient development environment with auto-completion, code highlighting, etc.
 
 To start Jupyter locally, go to the directory of the course, and execute:
 

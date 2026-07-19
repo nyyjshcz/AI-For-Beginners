@@ -28,7 +28,7 @@ If you are using local Python installation to run this course, you may need to i
 
 **For PyTorch**
 ```bash
-pip install -r requirements-torch.txt
+pip install -r requirements-pytorch.txt
 ```
 **For TensorFlow**
 ```bash
